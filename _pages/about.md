@@ -2,17 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Economics &middot; [Your University Name]
+subtitle: PhD in Economics 经济学博士 &middot; University of Toronto 多伦多大学
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Economics</p>
-    <p>[Your University Name]</p>
-    <p>[City, Country]</p>
-    <p>Email: your@email.com</p>
+    <p>Department of Economics 经济系 </p>
+    <p>University of Toronto 多伦多大学 </p>
+    <p>Canada 加拿大</p>
+    <p>Email: tongtonghao1129@outlook.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,13 +24,11 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD candidate in Economics at [Your University Name]. My research lies at the intersection of **international trade**, **urban economics**, and **spatial general equilibrium**.
+I am currently on the job market. I hold my PhD from the University of Toronto and previously served as an assistant professor in the Department of Economics at the Lingnan (University) College, Sun Yat-sen University. 
 
-My job market paper studies how trade costs within and across city clusters shape economic growth and resource allocation across China's 336 prefecture-level cities, using a spatial GE framework calibrated with 2017 VAT invoice bilateral trade data.
+I study development economics with a focus on misallocation and migration.  My research interest lies in the field of Development Economics, Macroeconomics, Labor Mobility, and Inequality.
 
-I will be on the **economics job market in 2026–2027**. My primary fields are *International Trade* and *Urban/Regional Economics*.
 
-**References:**
-- [Advisor Name] (advisor) — [email]
-- [Committee Member] — [email]
-- [Committee Member] — [email]
+本人目前正在求职。我毕业于多伦多大学，曾担任中山大学岭南（大学）学院经济学系的助理教授。
+
+我研究发展经济学，重点关注资源错配和迁移。我的研究兴趣领域包括发展经济学、宏观经济学、劳动力流动和不平等。
